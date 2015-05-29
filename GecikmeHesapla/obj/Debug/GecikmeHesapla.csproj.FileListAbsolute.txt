@@ -1,0 +1,14 @@
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\bin\Debug\GecikmeHesapla.exe.config
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\obj\Debug\GecikmeHesapla.csprojResolveAssemblyReference.cache
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\obj\Debug\GecikmeHesapla.Form1.resources
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\obj\Debug\GecikmeHesapla.Properties.Resources.resources
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\obj\Debug\GecikmeHesapla.csproj.GenerateResource.Cache
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\bin\Debug\GecikmeHesapla.exe
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\bin\Debug\GecikmeHesapla.pdb
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\obj\Debug\GecikmeHesapla.exe
+c:\users\caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\obj\Debug\GecikmeHesapla.pdb
+C:\Users\Caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\bin\Debug\System.Data.SQLite.dll
+C:\Users\Caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\bin\Debug\System.Data.SQLite.xml
+C:\Users\Caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\bin\Debug\NPOI.xml
+C:\Users\Caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\bin\Debug\NPOI.OOXML.xml
+C:\Users\Caner\documents\visual studio 2012\Projects\GecikmeHesapla\GecikmeHesapla\bin\Debug\NPOI.OpenXml4Net.xml
